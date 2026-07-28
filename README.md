@@ -1,6 +1,6 @@
 # Document Standardization Intelligent Proofreader
 
-**English** | [简体中文](./README.zh-CN.md)
+🏆🏆🏆**English** | [简体中文](./README.zh-CN.md)🏆🏆🏆
 
 AI-powered Word document proofreader built with LangChain + LLM — auto-detects the document domain and gives paragraph-level correction suggestions.
 
