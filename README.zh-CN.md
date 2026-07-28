@@ -1,6 +1,6 @@
 # 文档标准化智能校对系统
 
-[English](./README.md) | **简体中文**
+🏆🏆🏆[English](./README.md) | **简体中文**🏆🏆🏆
 
 基于 LangChain + LLM 的 Word 文档智能校对工具，自动识别文档领域并逐段给出校对建议。
 
